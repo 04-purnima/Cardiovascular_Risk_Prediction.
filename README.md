@@ -101,4 +101,5 @@ We shall study the following training models:
 
 
 CONCLUSION:
+
 Among all the Classifiers used here, K Nearest Neighbour classifier has the best performance with highest RECALL and F1 SCORE of 89%.
